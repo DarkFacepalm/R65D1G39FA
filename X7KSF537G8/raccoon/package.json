@@ -1,0 +1,27 @@
+{
+  "name": "raccoon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Brocfile.js",
+  "directories": {},
+  "engines": {
+    "node": "6.7.0",
+    "npm": "3.10.3"
+  },
+  "build_name": "ori",
+  "dependencies": {
+    "broccoli": "^0.16.9",
+    "broccoli-concat": "^2.3.8",
+    "broccoli-funnel": "^1.0.7",
+    "broccoli-merge-trees": "^1.1.4",
+    "broccoli-string-replace": "^0.1.1",
+    "broccoli-uglify-js": "^0.2.0"
+  },
+  "scripts": {
+    "build": "bin\\build.cmd",
+    "start": "bin\\start.cmd",
+    "watch": "bin\\watch.cmd"
+  },
+  "author": "D9B8",
+  "license": "MIT"
+}

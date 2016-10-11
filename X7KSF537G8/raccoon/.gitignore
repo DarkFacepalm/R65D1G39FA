@@ -2,5 +2,5 @@ node_modules/
 tmp/
 ori/
 bin/
-.idea/
+../.idea/
 *.iml
