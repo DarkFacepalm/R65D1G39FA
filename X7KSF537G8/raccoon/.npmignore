@@ -1,0 +1,12 @@
+bower_components/
+tests/
+tmp/
+src/
+bin/
+idea/
+*.iml
+
+.npmignore
+**/.gitkeep
+bower.json
+Brocfile.js
